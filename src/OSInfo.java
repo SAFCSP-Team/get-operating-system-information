@@ -1,5 +1,5 @@
 public class OSInfo {
-    public static void getOSInfo() {
+    public static void printOSInfo() {
         String osName = null;
         String osVersion = null;
         /* Your code here */
