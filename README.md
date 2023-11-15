@@ -1,4 +1,4 @@
-## Operating System Information Project
+## Operating System Project
 
 #### Objectives
 In this project we want to focus on **OS** concepts that could be used to develop applications.
@@ -18,5 +18,5 @@ Write a program that prints the operating system information.
 
 
 #### Implementation
-Do the implementation of the `getOSInfo` method, then call it in the main method.
+Do the implementation of the `printOSInfo` method, then call it in the main method.
 
