@@ -1,4 +1,4 @@
-## Operating System Project
+## Operating System Introduction 
 
 #### Objectives
 In this project we want to focus on **OS** concepts that could be used to develop applications.
