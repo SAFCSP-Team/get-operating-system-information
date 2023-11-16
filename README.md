@@ -4,7 +4,7 @@
 In this project we want to focus on **OS** concepts that could be used to develop applications.
 
 #### Concepts
-These concepts are the main used concepts in the project solution, kindly read the provided resources if any is new to you.
+These concepts are the main used concepts in the project solution, kindly read the provided resources if any are new to you.
 
 | Concepts                              | Resources                                                                                                                                                                                                                                                                                                                           |
 |---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
